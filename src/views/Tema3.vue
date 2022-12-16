@@ -93,6 +93,10 @@
             figure(data-aos="zoom-in-up")
               img.img-t.m-auto(src='@/assets/curso/tema3/img07-2.svg', alt='')
 
+    p En el eje X (horizontal) se observa el grado de reconocimiento de capacidades que tienen las familias, mientras que, en el eje Y (vertical) se presentan los niveles de riesgo externo; ambos aspectos se clasifican en bajo, medio y alto. La posibilidad que tiene una familia de ofrecer las condiciones para el pleno ejercicio de los derechos de los niños, niñas o adolescentes depende de la interacción de estas dos variables. 
+    p Por ejemplo, una familia con un nivel de riesgo externo alto y con bajo nivel de reconocimiento de sus capacidades (segmento azul oscuro) tendría una mayor probabilidad de experimentar situaciones de amenaza o vulneración de derechos de los NNA; mientras que, una familia que tiene riesgo externo bajo y alto nivel de apropiación de capacidades podría, con una mayor probabilidad, disponer de condiciones que potencien el desarrollo de los NNA. 
+    p Estos ejemplos representan situaciones extremas del esquema que pretende ilustrar de manera simplificada cómo se conjugan los dos aspectos señalados en la probabilidad de que una familia pueda disponer las condiciones para la protección y el desarrollo integral de los NNA. Las distintas combinaciones de las dos variables de interés (apropiación de capacidades y nivel de riesgo externo) son indicativos de la necesidad de apoyo y acompañamiento a las familias.
+
     .row.justify-content-center.mb-4.mb-lg-5
       .col-lg-10
         .bg_16.p-4.ps-5

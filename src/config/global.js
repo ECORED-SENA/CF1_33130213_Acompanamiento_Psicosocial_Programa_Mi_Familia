@@ -89,7 +89,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Marco conceptual de Mi Familia',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -372,7 +372,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Daniel Polanco',
+        nombre: 'Juan Daniel Polanco',
         cargo: 'Validación de diseño',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -384,7 +384,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

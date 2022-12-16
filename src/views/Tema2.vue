@@ -83,7 +83,10 @@
         p De acuerdo con lo presentado en el anterior apartado, las familias que constituyen la población objetivo de Mi Familia presentan en su historia situaciones donde los derechos de los niños, niñas y adolescentes no fueron garantizados o estuvieron en riesgo. De otro lado, al analizar su información socioeconómica se encuentra que presentan condiciones que las ponen en desventaja en relación con el promedio de las familias colombianas. 
         p Lo anterior, se concluye a partir del análisis de algunos de estos indicadores en las familias beneficiarias del programa Mi Familia en la vigencia 2020, los cuales se apreciarán a continuación.
 
-    .row.justify-content-center.mb-5
+    p En 2020, a través del programa Mi Familia se brindó acompañamiento a 64.166 familias en 201 municipios de los 32 departamentos del país y el Distrito Capital. De las familias atendidas, 29.355 contaban con información de Sisbén IV y de la Base Maestra del Departamento Nacional de Planeación (DNP). 
+    p.mb-5 A partir de esta información, se observa de acuerdo con Angulo, Carrero, De Oro, Pacheco, & Villamizar (2021), los siguientes indicadores.
+
+    .row.justify-content-center
       .col-lg-8
         ImagenInfografica.color-acento-botones.mb-5(data-aos="fade-down-right")
           template(v-slot:imagen)

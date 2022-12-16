@@ -33,7 +33,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
           h5 Figura 1.
-          span <em>Cobertura nacional del ICBF</em>   
+          span <em>Cobertura nacional del ICBF</em>  
 
     .bg_03.p-5.mb-5
       .row.pt-5.mb-5
@@ -45,7 +45,7 @@
           figure
             img.img-t.m-auto(src='@/assets/curso/tema1/img05.svg')
 
-      .row.justify-content-center(data-aos="fade-down-right")
+      .row.justify-content-center.mb-4(data-aos="fade-down-right")
         .col-lg-3.mb-4.mb-lg-0         
           .tabla-a.color-acento-contenido 
             table.m_tablas
@@ -169,6 +169,10 @@
                 tr
                   td.text-bold.text-center Vichada
                   td.text-center 1 
+
+      .row.justify-content-center.mb-4(data-aos="fade-down-right")
+        .col-lg-9 
+          figcaption.color_enlace Nota. Imagen referencia: #[a(href="https://es.wikipedia.org/wiki/Departamentos_de_Colombia#/media/Archivo:Mapa_de_Colombia_(departamentos).svg" target='_blank') <br> https://es.wikipedia.org/wiki/Departamentos_de_Colombia#/media/Archivo:Mapa_de_Colombia_(departamentos).svg]
 
     p.mb-5 El ICBF hace parte del Sector de Inclusión Social y la Reconciliación, encabezado por el Departamento para la Prosperidad Social. Las competencias de este sector se enmarcan en la superación de la pobreza, la inclusión social y la reconciliación, la atención de grupos vulnerables, la atención integral a la primera infancia, infancia, adolescencia y bienestar de las familias colombianas, la atención, asistencia y reparación a víctimas del conflicto armado; así como de la definición de políticas para la construcción de memoria de los hechos ocurridos con ocasión del conflicto armado (ICBF, 2021).
     p.text-bold.mb-5 De acuerdo con su actual mapa estratégico (2019-2022), la visión del ICBF es:
@@ -316,7 +320,7 @@
     .video.mb-5
       iframe(width="560" height="315" src="https://www.youtube.com/embed/KCP9XzSmm_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.justify-content-center.align-items-center.mb-5.pb-5
+    .row.justify-content-center.align-items-center.pb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img23.png')
@@ -324,8 +328,14 @@
         p El acompañamiento psicosocial que ofrece Mi Familia inicia con la medición de habilidades tanto en padres, madres o cuidadores como en los niños, niñas y adolescentes a través de test psicológicos. Esto permite realizar un diagnóstico inicial y brindar un acompañamiento diseñado a la medida de cada familia. Las sesiones están conformadas por un ciclo básico y uno de profundización. 
         p Durante el ciclo básico se abordan temáticas relacionadas con el autocuidado y cuidado del otro, regulación emocional, vinculación positiva, comunicación asertiva y resolución de conflictos, entre otros. El ciclo de profundización ofrece la posibilidad de abordar con las familias temáticas que responden a sus intereses y particularidades (ver figura 3).
 
-    .row.justify-content-center.mb-5
-      .col-lg-4.mb-5.mb-lg-0.pb-4.pb-lg-0(data-aos="fade-right")
+    .row.mb-5.justify-content-center  
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
+          h5 Figura 3.
+          span <em>Sesiones de acompañamiento del programa</em> 
+
+    .row.justify-content-center.mb-4.mb-md-0.mb-lg-5
+      .col-lg-4.col-md-6.mb-5.mb-lg-0.pb-4.pb-lg-0(data-aos="fade-right")
         .bg_04.p-4
           figure
             img.img-t.mx-auto.m_top1(src='@/assets/curso/tema1/img24.svg')                     
@@ -349,7 +359,7 @@
                 li 
                   i.fas.fa-check-circle
                   | Resolución de conflictos.
-      .col-lg-4(data-aos="fade-left")
+      .col-lg-4.col-md-6(data-aos="fade-left")
         .bg_06.p-4
           figure
             img.img-t.m_top2(src='@/assets/curso/tema1/img25.svg') 
