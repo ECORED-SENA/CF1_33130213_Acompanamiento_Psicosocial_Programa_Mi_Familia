@@ -49,7 +49,7 @@
           p Por ejemplo, un niño curioso y seguro de sí mismo explorará más sus contextos y esto puede aportar al desarrollo de habilidades tanto cognitivas como socioemocionales, o la inversión en educación se potencia en niños y niñas con buenas habilidades socioemocionales ya que tendrán mayor motivación y atención en los escenarios de aprendizaje. De igual forma, las capacidades parentales de los padres, madres y cuidadores determinan las habilidades futuras de los niños mediante sus acciones directas de cuidado y protección, la disposición de escenarios y actividades de exploración y estimulación y, la realización de inversiones en su salud, educación, recreación, etc.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p El modelo planteado por los autores señalados orienta múltiples acciones, desde diversidad de actores e instituciones para avanzar en el propósito de promover el desarrollo integral de los niños, niñas y adolescentes. Para efectos de los programas de acompañamiento familiar psicosocial como Mi Familia se identifican dos aspectos de interés, las habilidades de padres, madres y cuidadores que pueden comprenderse como <b>capacidades familiares y los niveles de riesgo externo</b> o las condiciones de contexto de las familias.
         p Los dos aspectos señalados inspiran la hipótesis central del programa Mi Familia. Esta hipótesis, presentada en la siguiente figura, sostiene que, para avanzar en la protección y desarrollo integral de niños, niñas y adolescentes, el acompañamiento psicosocial debe incorporar acciones intencionadas de fortalecimiento de capacidades familiares y acciones para promover el acceso de las familias a oferta social. Las primeras acciones se relacionan con el determinante θ_p, habilidades parentales presentes, mientras que las segundas afectan el determinante π_t, de condiciones del entorno o del sistema familiar.
       .col-lg-4(data-aos="fade-left")
@@ -73,9 +73,9 @@
 
     .bg_15.mb-5
       .row.justify-content-center
-        .col-lg-11(data-aos="fade-right")
+        .col-lg-11.order-2.order-lg-1(data-aos="fade-right")
           p De acuerdo con lo expuesto en los párrafos precedentes, en relación con el rol de las familias en la protección integral de niños, niñas y adolescentes, se identificaron dos aspectos de interés frente a la implementación de Mi Familia, las capacidades familiares y los niveles de riesgo externo o las condiciones de contexto de las familias. La siguiente figura sintetiza la relación entre estos dos aspectos para la caracterización de las familias.
-        .col-lg-1(data-aos="fade-left")
+        .col-lg-1.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure
             img.img-t.m_left(src='@/assets/curso/tema3/img06.svg')
 
@@ -152,9 +152,9 @@
 
     .bg_02-1.mb-5
       .row.justify-content-center
-        .col-lg-11(data-aos="fade-right")
+        .col-lg-11.order-2.order-lg-1(data-aos="fade-right")
           p Las familias con niños, niñas o adolescentes que están o han estado en procesos de protección, ya han vivido situaciones de amenaza o vulneración de derechos; situación de mayor probabilidad en familias con un bajo nivel de reconocimiento de sus capacidades y que enfrentan un alto nivel de riesgo externo. Estas familias requieren un acompañamiento familiar de prevención terciaria por lo que reciben un acompañamiento de tipo intensivo. Los efectos esperados, de acuerdo a situaciones específicas, se exponen a continuación:
-        .col-lg-1(data-aos="fade-left")
+        .col-lg-1.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure
             img.img-t.m_left(src='@/assets/curso/tema3/img13.svg')
 
@@ -233,7 +233,7 @@
     p.mb-5 El proceso de acompañamiento psicosocial se desarrolla a partir del encuentro entre la familia que ha sido focalizada y acepta participar en el proceso y el profesional de acompañamiento familiar, mediado por unas herramientas metodológicas:
 
     .row.justify-content-center.mb-5
-      .col-lg-8
+      .col-lg-6
         ImagenInfografica.color-acento-botones.mb-5.t_img-info.m_card-imginf2(data-aos="fade-down-right")
           template(v-slot:imagen)
             figure

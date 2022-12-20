@@ -23,9 +23,9 @@
 
     .bg_02.mb-5
       .row.justify-content-center
-        .col-lg-11(data-aos="fade-left")
+        .col-lg-11.order-2.order-lg-1(data-aos="fade-left")
           p <b>El Instituto Colombiano de Bienestar Familiar (ICBF) es la entidad del Estado colombiano que trabaja por la protección integral de la primera infancia, la niñez, la adolescencia y el bienestar de las familias en Colombia.</b> El ICBF tiene una amplia presencia en el territorio colombiano, tal y como se evidencia en la siguiente infografía (ver figura 1).
-        .col-lg-1(data-aos="fade-right")
+        .col-lg-1.order-1.order-lg-2(data-aos="fade-right")
           figure
             img.img-t.m_left.mb-4(src='@/assets/curso/tema1/img02.svg')
 
@@ -172,13 +172,13 @@
 
       .row.justify-content-center.mb-4(data-aos="fade-down-right")
         .col-lg-9 
-          figcaption.color_enlace Nota. Imagen referencia: #[a(href="https://es.wikipedia.org/wiki/Departamentos_de_Colombia#/media/Archivo:Mapa_de_Colombia_(departamentos).svg" target='_blank') <br> https://es.wikipedia.org/wiki/Departamentos_de_Colombia#/media/Archivo:Mapa_de_Colombia_(departamentos).svg]
+          figcaption.color_enlace Nota. Imagen referencia: #[a(href="https://es.wikipedia.org/wiki/Departamentos_de_Colombia#/media/Archivo:Mapa_de_Colombia_(departamentos).svg" target='_blank')  https://es.wikipedia.org/wiki/Departamentos_de_Colombia#/media/Archivo:Mapa_de_Colombia_(departamentos).svg]
 
     p.mb-5 El ICBF hace parte del Sector de Inclusión Social y la Reconciliación, encabezado por el Departamento para la Prosperidad Social. Las competencias de este sector se enmarcan en la superación de la pobreza, la inclusión social y la reconciliación, la atención de grupos vulnerables, la atención integral a la primera infancia, infancia, adolescencia y bienestar de las familias colombianas, la atención, asistencia y reparación a víctimas del conflicto armado; así como de la definición de políticas para la construcción de memoria de los hechos ocurridos con ocasión del conflicto armado (ICBF, 2021).
     p.text-bold.mb-5 De acuerdo con su actual mapa estratégico (2019-2022), la visión del ICBF es:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5(data-aos="fade-right")
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         .bloque-texto-d.color-acento-contenido.p-2
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
@@ -308,9 +308,9 @@
 
     .bg_02.mb-5
       .row.justify-content-center
-        .col-lg-11(data-aos="fade-right")
+        .col-lg-11.order-2.order-lg-1(data-aos="fade-right")
           p Mi Familia es un programa de acompañamiento familiar psicosocial que tiene como objetivo fortalecer las capacidades de las familias para promover el desarrollo integral de niños, niñas y adolescentes y reducir y mitigar los efectos de la violencia, el abuso o la negligencia en su contra, de forma que se salvaguarden los derechos de la niñez y la adolescencia. <b>Para ampliar la información sobre qué es Mi Familia, lo invitamos a ver el siguiente video:</b>
-        .col-lg-1(data-aos="fade-left")
+        .col-lg-1.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure
             img.img-t.m_left(src='@/assets/curso/tema1/img22.svg')
 
@@ -321,7 +321,7 @@
       iframe(width="560" height="315" src="https://www.youtube.com/embed/KCP9XzSmm_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.align-items-center.pb-5
-      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-lg-4.d-none.d-lg-flex(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img23.png')
       .col-lg-8(data-aos="fade-right") 
@@ -334,7 +334,7 @@
           h5 Figura 3.
           span <em>Sesiones de acompañamiento del programa</em> 
 
-    .row.justify-content-center.mb-4.mb-md-0.mb-lg-5
+    .row.justify-content-center.mb-4.mb-lg-5
       .col-lg-4.col-md-6.mb-5.mb-lg-0.pb-4.pb-lg-0(data-aos="fade-right")
         .bg_04.p-4
           figure

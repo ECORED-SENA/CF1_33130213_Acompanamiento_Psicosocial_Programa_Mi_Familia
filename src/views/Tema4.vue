@@ -26,9 +26,9 @@
 
     .bg_02.mb-4
       .row.justify-content-center
-        .col-lg-11(data-aos="fade-right")
+        .col-lg-11.order-2.order-lg-1(data-aos="fade-right")
           p El modelo de acompañamiento del programa Mi Familia incorpora una perspectiva de trabajo con énfasis en lo relacional para contribuir al fortalecimiento de las capacidades de las familias como corresponsables en la protección integral de niños, niñas y adolescentes y, a la prevención y mitigación de las violencias en su contra.
-        .col-lg-1(data-aos="fade-left")
+        .col-lg-1.order-1.order-lg-2.mb-2.mb-lg-0(data-aos="fade-left")
           figure
             img.img-t.m_left.mb-4(src='@/assets/curso/tema4/img02.svg')
 
@@ -151,10 +151,10 @@
           p.m-0 En este sentido, la interseccionalidad no se refiere a una sumatoria de vulneraciones, sino al análisis y reconocimiento de la discriminación cruzada, que toma nuevas formas y manifestaciones cuando se relacionan en una misma familia o persona distintas características. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         p A través del MEDD, el ICBF reconoce la necesidad de atención diferencial para las personas y las familias pertenecientes a los grupos étnicos, las mujeres, la población LGBTI y las personas con discapacidad y sus familias. La perspectiva de la interseccionalidad permite comprender cómo estas condiciones interactúan en las realidades de las familias, para brindar una atención más pertinente, participativa y efectiva. 
         p Por ello, vale la pena pensar en otras formas de diferenciación: la relación con el conflicto armado (víctimas, resistentes, desmovilizados/as), el estado civil, el ejercicio de algunos oficios o el estatus migrante son variables que en el contexto colombiano también pueden ser de gran importancia. <b>A continuación se desarrollan aspectos importantes a tener en cuenta en este tema.</b>
-      .col-lg-4(data-aos="fade-left")
+      .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema4/img10.png')
 
@@ -195,9 +195,9 @@
     
     .bg_02-1.mb-4
       .row.justify-content-center
-        .col-lg-11(data-aos="fade-right")
+        .col-lg-11.order-2.order-lg-1(data-aos="fade-right")
           p El acompañamiento psicosocial que ofrece Mi Familia se estructura retomando elementos del enfoque ecosistémico, del enfoque interseccional de derechos y del enfoque de curso de vida. El encuentro de estos tres caracteriza, ubica y limita el proceso del acompañamiento psicosocial donde participan tres actores principales: las familias en el centro del proceso, el profesional de acompañamiento y las herramientas metodológicas que dinamizan la interacción entre los dos primeros.
-        .col-lg-1(data-aos="fade-left")
+        .col-lg-1.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure
             img.img-t.m_left(src='@/assets/curso/tema3/img13.svg')
 

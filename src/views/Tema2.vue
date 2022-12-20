@@ -8,7 +8,7 @@
       h1(data-aos="fade-right") Población objetivo
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p Una vez se ha reconocido el propósito del programa Mi Familia, ahora se debe conocer la población sujeta de atención por el mismo y sus características socioeconómicas como elemento relevante a considerar en el desarrollo del acompañamiento psicosocial familiar.
         p Adicional a ello, en este apartado, se presenta información sobre los criterios de focalización de Mi Familia, según el tipo de acompañamiento psicosocial y algunas características sociodemográficas de las familias en riesgo o condición de vulnerabilidad que serán focalizadas y atendidas, lo cual permite lograr y acercamiento a sus realidades y particularidades, retos y posibilidades del acompañamiento familiar.
       .col-lg-4(data-aos="fade-left")
