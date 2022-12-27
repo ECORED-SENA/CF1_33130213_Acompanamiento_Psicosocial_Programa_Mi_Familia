@@ -205,7 +205,8 @@ export default {
       referencia:
         'ICBF. (2022). Guía de Orientaciones Metodológicas Mi Familia.',
       tipo: 'Documento pdf',
-      link: 'https://www.icbf.gov.co/misionales/promocion-y-prevencion/familia',
+      link:
+        'https://www.icbf.gov.co/system/files/procesos/g1.mo18.pp_guia_orientaciones_metodologicas_modalidad_mi_familia_v3.pdf',
     },
   ],
   glosario: [
