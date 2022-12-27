@@ -62,7 +62,7 @@
           p Familias con niños, niñas y adolescentes remitidas desde los servicios de Asistencia y Asesoría a la Niñez y a la Familia de los Centros Zonales del ICBF o desde los Equipos Móviles de Protección Integral.
           p Familias de niños, niñas y adolescentes beneficiarios de servicios o modalidades de Primera Infancia, Infancia, Adolescencia y Juventud o Nutrición.
           p Familias con niños, niñas y adolescentes remitidas a través de la articulación del ICBF con otras entidades del Sistema Nacional de Bienestar Familiar SNBF o del Sistema Nacional de Discapacidad SND por requerir proceso de acompañamiento y fortalecimiento familiar, entre otras.
-          p <b> En la vigencia 2020, el 50,6 % de las familias beneficiarias de Mi Familia fueron identificadas a través de las modalidad y servicios de Primera Infancia del ICBF, lo que constituye un resultado importante en términos de la articulación y la complementariedad del programa con otros servicios del ICBF.</b>          
+          p <b> En la vigencia 2020, el 50,6 % de las familias beneficiarias de Mi Familia fueron identificadas a través de las modalidades y servicios de Primera Infancia del ICBF, lo que constituye un resultado importante en términos de la articulación y la complementariedad del programa con otros servicios del ICBF.</b>          
 
       .row.justify-content-center(titulo="Acompañamiento intensivo")
         .col-lg-11

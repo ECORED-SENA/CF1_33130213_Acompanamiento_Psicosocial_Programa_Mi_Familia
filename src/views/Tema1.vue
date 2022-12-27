@@ -46,7 +46,7 @@
             img.img-t.m-auto(src='@/assets/curso/tema1/img05.svg')
 
       .row.justify-content-center.mb-4(data-aos="fade-down-right")
-        .col-lg-3.mb-4.mb-lg-0         
+        .col-lg-3.col-xl-4.col-xxl-3.mb-4.mb-lg-0         
           .tabla-a.color-acento-contenido 
             table.m_tablas
               thead
@@ -87,7 +87,7 @@
                 tr
                   td.text-bold.text-center Cauca
                   td.text-center 7
-        .col-lg-3.mb-4.mb-lg-0          
+        .col-lg-3.col-xl-4.col-xxl-3.mb-4.mb-lg-0          
           .tabla-a.color-acento-contenido 
             table.m_tablas
               thead
@@ -128,7 +128,7 @@
                 tr
                   td.text-bold.text-center Nariño
                   td.text-center 8
-        .col-lg-3          
+        .col-lg-3.col-xl-4.col-xxl-3          
           .tabla-a.color-acento-contenido 
             table.m_tablas
               thead
@@ -182,7 +182,7 @@
         .bloque-texto-d.color-acento-contenido.p-2
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            p Liderar la “construcción de un país en el que los niños, niñas, adolescentes y jóvenes se desarrollen en condiciones de equidad y libres de violencias” y su misión es “promover el desarrollo y la protección integral de los niños, niñas y adolescentes, así como el fortalecimiento de las capacidades de los jóvenes y las familias como actores clave de los entornos protectores y principales agentes de transformación social.
+            p Liderar la “construcción de un país en el que los niños, niñas, adolescentes y jóvenes se desarrollen en condiciones de equidad y libres de violencias” y su misión es “promover el desarrollo y la protección integral de los niños, niñas y adolescentes, así como el fortalecimiento de las capacidades de los jóvenes y las familias como actores clave de los entornos protectores y principales agentes de transformación social".
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 (ICBF, 2020).
@@ -260,7 +260,7 @@
       .row(titulo="Infancia")
         .col-lg-7.mb-4.mb-lg-0.ms-lg-5
           p Ofrece servicios y desarrolla planes y proyectos de promoción de derechos y prevención de vulneraciones durante la infancia comprendida entre los 6 y 13 años, 11 meses y 29 días.
-          p Entre sus servicios incluye programas para el fortalecimiento de capacidades e inclusión social de niños, niñas y adolescentes con discapacidad y sus familias (De tú a tú); programa para la prevención de riesgos específicos de trabajo infantil, violencia al interior de las familias y violencias sexuales y el impulso de proyectos de vida legales, sostenibles y libres de violencia (Katünaa); programa de promoción de derechos, prevención de vulneraciones y construcción de proyecto de vida a partir de la exploración de vocaciones, intereses y talentos (Generación Explora); programa de promoción de la protección integral y proyectos de vida de las niñas y los niños que pertenezcan o se autoreconozcan como parte de una comunidad étnica (Generaciones Étnicas con Bienestar).
+          p Entre sus servicios incluye programas para el fortalecimiento de capacidades e inclusión social de niños, niñas y adolescentes con discapacidad y sus familias (De tú a tú); programa para la prevención de riesgos específicos de trabajo infantil, violencia al interior de las familias y violencias sexuales y el impulso de proyectos de vida legales, sostenibles y libres de violencia (Katünaa); programa de promoción de derechos, prevención de vulneraciones y construcción de proyecto de vida a partir de la exploración de vocaciones, intereses y talentos (Generación Explora); programa de promoción de la protección integral y proyectos de vida de las niñas y los niños que pertenezcan o se autorreconozcan como parte de una comunidad étnica (Generaciones Étnicas con Bienestar).
         .col-lg-4
           figure
             img.img-t.m-auto(src='@/assets/curso/tema1/img17.png', alt='Texto que describa la imagen')
