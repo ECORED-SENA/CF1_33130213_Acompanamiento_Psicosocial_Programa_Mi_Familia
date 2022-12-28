@@ -61,8 +61,8 @@
         p.text-bold Para estructurar el acompañamiento psicosocial que se ofrece a través de Mi Familia se tienen en cuenta tres enfoques principales: Ecosistémico, Curso de Vida e Interseccionalidad. 
 
     .row.mb-4.mb-lg-5
-      .col-lg-2.col-md-4.col-7
-        .bg_18.p-2
+      .col-lg-2.col-xl-3.col-xxl-2.col-md-4.col-7
+        .bg_18.p-2.px-4
           p.m-0.text-white.text-bold Enfoque ecosistémico
 
     p.mb-4 El enfoque ecosistémico retoma elementos del modelo ecológico planteado por Bronfenbrenner (1987) donde se plantea que el desarrollo individual depende de factores ligados a uno o varios ambientes ecológicos, los cuales se conciben como un conjunto de estructuras seriadas, cada una de las cuales cabe dentro de la siguiente, tal como se explica a continuación.
@@ -110,14 +110,14 @@
         .bg_18.p-2.px-4
           p.m-0.text-white.text-bold Curso de vida
 
-    p El curso de vida se puede comprender como trayectorias vitales dinámicas, es decir, que cambian constantemente. En este sentido, las familias conforman colectividades donde las trayectorias de sus integrantes son interdependientes y están en tránsito constante a lo largo de sus vidas (Blanco, 2011).
+    p.m-0 El curso de vida se puede comprender como trayectorias vitales dinámicas, es decir, que cambian constantemente. En este sentido, las familias conforman colectividades donde las trayectorias de sus integrantes son interdependientes y están en tránsito constante a lo largo de sus vidas (Blanco, 2011).
 
     .row.justify-content-center.mb-4
-      .col-lg-10
+      .col-lg-10.col-xl-11.col-xxl-10
         .bg_16-1.p-5.pe-lg-2
           .row.justify-content-center
             .col-lg-8
-              p.m-0.mt-5 Las familias y las personas durante el curso de sus vidas atraviesan crisis o transiciones que representan un reto frente al desarrollo personal y familiar. Existen transiciones más o menos esperables, de acuerdo con la edad y el contexto histórico social (por ejemplo: salida del colegio, entrada al mundo del trabajo, entre otras) que cambian esas trayectorias vitales. Además de las transiciones esperadas, existen otros cambios de estado más abruptos o intensos como las crisis (separaciones, muertes, desempleo) o incluso eventos traumáticos (guerras, violencia sexual, violencia intrafamiliar).
+              p.m-0.mt-lg-5.mt-xl-4.mt-xxl-5 Las familias y las personas durante el curso de sus vidas atraviesan crisis o transiciones que representan un reto frente al desarrollo personal y familiar. Existen transiciones más o menos esperables, de acuerdo con la edad y el contexto histórico social (por ejemplo: salida del colegio, entrada al mundo del trabajo, entre otras) que cambian esas trayectorias vitales. Además de las transiciones esperadas, existen otros cambios de estado más abruptos o intensos como las crisis (separaciones, muertes, desempleo) o incluso eventos traumáticos (guerras, violencia sexual, violencia intrafamiliar).
             .col-lg-4
               figure(data-aos="zoom-in-up")
                 img.img-t.m_top.m_left2(src='@/assets/curso/tema4/img07.png', alt='')
@@ -125,7 +125,7 @@
     p.mb-5 Resulta crucial para el acompañamiento familiar sostener esta mirada no solo sistémica sino también focalizada en las trayectorias vitales y sus cambios de estado. Para esto es básico que el profesional de acompañamiento familiar pueda reconocer la posibilidad de que estos eventos se presenten en la historia de vida de las familias e incluir en sus acciones de intervención, la creación de espacios donde las familias y sus integrantes tengan oportunidad de nombrar y comprender las crisis y los conflictos como parte de sus vidas, e incluso, como oportunidades de aprendizaje que promueven sus capacidades para afrontarlas y adaptarse a ellas.
 
     .row.mb-4
-      .col-lg-2.col-md-4.col-6
+      .col-lg-2.col-xl-3.col-xxl-2.col-md-4.col-6
         .bg_18.p-2.px-4
           p.m-0.text-white.text-bold Interseccionalidad
 

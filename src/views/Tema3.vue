@@ -98,7 +98,7 @@
     p Estos ejemplos representan situaciones extremas del esquema que pretende ilustrar de manera simplificada cómo se conjugan los dos aspectos señalados en la probabilidad de que una familia pueda disponer las condiciones para la protección y el desarrollo integral de los NNA. Las distintas combinaciones de las dos variables de interés (apropiación de capacidades y nivel de riesgo externo) son indicativos de la necesidad de apoyo y acompañamiento a las familias.
 
     .row.justify-content-center.mb-4.mb-lg-5
-      .col-lg-10
+      .col-lg-10.col-xl-11.col-xxl-10
         .bg_16.p-4.ps-5
           .row.justify-content-center.align-items-center
             .col-lg-8

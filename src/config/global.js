@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'El modelo de acompañamiento psicosocial del programa Mi Familia busca el fortalecimiento de las capacidades de las familias como agentes de transformación social, fundamentado en el marco normativo e institucional del ICBF.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
